@@ -1,9 +1,7 @@
 This is a new [**React Native expo**]([https://reactnative.dev]) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Preview
-<p align="center">
   <img src="https://github.com/AmirRashid1/WhatsApp-UI/blob/master/assets/images/chatlistpreview.png" width="350" title="chat list preview">
-</p>
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
