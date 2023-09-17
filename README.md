@@ -1,4 +1,4 @@
-This is a new [**React Native expo**]([https://reactnative.dev]) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a new [**React Native**]([https://reactnative.dev]) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Preview
   <img src="https://github.com/AmirRashid1/WhatsApp-UI/blob/master/assets/images/chatlistpreview.png" width="350" title="chat list preview">
