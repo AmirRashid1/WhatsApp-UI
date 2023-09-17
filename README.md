@@ -4,7 +4,7 @@ This is a new [**React Native expo**]([https://reactnative.dev]) project, bootst
   <img src="https://github.com/AmirRashid1/WhatsApp-UI/blob/master/assets/images/chatlistpreview.png" width="350" title="chat list preview">
   <img src="https://github.com/AmirRashid1/WhatsApp-UI/blob/master/assets/images/chatlistpreview.png" width="350" title="chat preview">
   <img src="https://github.com/AmirRashid1/WhatsApp-UI/blob/5fd89d82f261945a7d2d75e236d87cd5313e4c19/assets/images/statuspreview.png" width="350" title="status preview">
-  <img src="https://github.com/AmirRashid1/WhatsApp-UI/blob/master/assets/images/chatlistpreview.png" width="350" title="chat list preview">
+  <img src="https://github.com/AmirRashid1/WhatsApp-UI/blob/3015becaed84a879d068a93ce42755a5024c9c0e/assets/images/communitypreview.png" width="350" title="community preview">
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
