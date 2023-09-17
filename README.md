@@ -1,7 +1,10 @@
 This is a new [**React Native expo**]([https://reactnative.dev]) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Preview
-![Alt chat preview](C:\Users\Amir\Pictures\Screenshot 2023-09-17 104513.png)
+<p align="center">
+  <img src="file:///C:/Users/Amir/Pictures/Screenshot%202023-09-17%20104513.png" width="350" title="chat preview">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
