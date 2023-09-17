@@ -2,7 +2,7 @@ This is a new [**React Native expo**]([https://reactnative.dev]) project, bootst
 
 # Preview
 <p align="center">
-  <img src="https://github.com/AmirRashid1/WhatsApp-UI/blob/master/assets/images/chatlistpreview.png" width="350" title="chat preview">
+  <img src="https://github.com/AmirRashid1/WhatsApp-UI/blob/master/assets/images/chatlistpreview.png" width="350" title="chat list preview">
 </p>
 # Getting Started
 
