@@ -1,5 +1,7 @@
 This is a new [**React Native expo**]([https://reactnative.dev]) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Preview
+![Alt chat preview](C:\Users\Amir\Pictures\Screenshot 2023-09-17 104513.png)
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
